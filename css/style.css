@@ -1,0 +1,43 @@
+.nature{
+	    position: relative;
+    width: 70%;
+    margin: 73px;
+
+}
+.image1{
+	    width: 10%;
+    position: absolute;
+    left: -8%;
+    top: 20%;
+    z-index: -1;
+
+}
+.image2{
+	   width: 45%;
+    filter: hue-rotate(103deg);
+}
+.image3{
+	    width: 20%;
+    position: absolute;
+    bottom: 20%;
+    right: 40%;
+}
+
+.fixed{
+	        position: fixed;
+    bottom: 35%;
+    left: 35%;
+    font-size: 35px;
+    text-transform: uppercase;
+
+}
+.image4{
+	    position: absolute;
+    width: 104%;
+    top: 0%;
+    left: 0%;
+    z-index: -1;
+	
+    filter: drop-shadow(10px 4px 6px black);
+}
+}
